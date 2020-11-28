@@ -5,11 +5,11 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Entrar/Criar Conta"
+url = "www.xklusivo.com"
 weight = 3
 [[menu.main]]
-name = "About"
+name = "Sobre"
 url = "about"
 weight = 2
 [[menu.main]]
