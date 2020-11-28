@@ -7,7 +7,7 @@ title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
 hasChildren = ""
 name = "Inicio"
-url = "homepage/home-1"
+url = "/"
 weight = ""
 [[menu.main]]
 name = "About"
