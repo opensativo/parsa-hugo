@@ -6,15 +6,20 @@ theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
 hasChildren = ""
+name = "Entrar"
+url = "https://www.xklusivo.com"
+weight = "4"
+[[menu.main]]
+hasChildren = ""
 name = "Inicio"
 url = "/"
 weight = ""
 [[menu.main]]
-name = "About"
+name = "Sobre"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Contact"
+name = "Contactos"
 url = "contact"
 weight = 3
 [outputs]
