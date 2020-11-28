@@ -5,11 +5,6 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-hasChildren = ""
-name = "Inicio"
-url = "/"
-weight = ""
-[[menu.main]]
 name = "Sobre"
 url = "about"
 weight = 2
@@ -22,6 +17,11 @@ hasChildren = ""
 name = "Entrar"
 url = "https://www.xklusivo.com"
 weight = "4"
+[[menu.main]]
+hasChildren = ""
+name = "Inicio"
+url = "/"
+weight = ""
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
