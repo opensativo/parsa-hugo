@@ -1,6 +1,6 @@
 ---
 title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
+date: 2020-07-09T08:46:10+00:00
 description: This is meta description
 type: post
 image: images/featured-post/post-1.jpg
