@@ -1,5 +1,5 @@
 baseurl = "https://blog.xklusivo.com"
-languageCode = "en-us"
+languageCode = "pt-br"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
