@@ -20,7 +20,7 @@ url = "https://www.xklusivo.com"
 weight = "4"
 [[menu.main]]
 name = "Contactos"
-url = "contact"
+url = "https://www.xklusivo.com/contact"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
