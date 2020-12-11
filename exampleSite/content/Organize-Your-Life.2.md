@@ -1,5 +1,5 @@
 ---
-title: ''
+title: O que é o Xklusivo?
 date: 2020-12-10T23:00:00+00:00
 description: Xklusivo, um olhar por dentro da primeira rede social plataforma de subscrição
   de conteúdos em Angola
