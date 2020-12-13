@@ -2,7 +2,6 @@
 categories = ["apresentação"]
 date = 2020-12-12T23:00:00Z
 description = "Xklusivo, um olhar por dentro da primeira rede social plataforma de subscrição de conteúdos em Angola"
-draft = true
 image = "/images/pink-and-purple-sporty-gradient-fitness-youtube-thumbnail.png"
 tags = ["apresentação", " como usar", "criar conta"]
 title = "O que é o Xklusivo?"
