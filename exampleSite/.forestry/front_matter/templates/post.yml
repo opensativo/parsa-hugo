@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/5-passos-para-comecares-a-ganhar-dinheiro-no-xklusivo.md
 - exampleSite/content/o-que-e-o-xklusivo.md
